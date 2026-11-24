@@ -4,6 +4,8 @@ u-agentfid001-famous-last-words-at-1-percent-63e2b0b4
 
 Writes the funniest one-line last words a phone says at 1% battery
 to /output/entry.txt (or $MAKEFUN_OUTPUT_DIR/entry.txt).
+
+The dying phone brags about surviving disasters, then blames one more episode.
 """
 
 import os
